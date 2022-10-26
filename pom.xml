@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.137.146.154:2000/repository/maven-web-app-releases//</url>
+	      <url>http://3.17.204.235:800/repository/mvn-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.137.146.154:2000/repository/maven-web-app-snapshots//</url>
+	      <url>http://3.17.204.235:800/repository/mvn-snapshots//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
